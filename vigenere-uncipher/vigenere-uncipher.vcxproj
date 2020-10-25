@@ -19,7 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mais.c" />
+    <ClCompile Include="frequencyAnalysis.c" />
+    <ClCompile Include="list.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="uncipher.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="frequencyAnalysis.h" />
+    <ClInclude Include="list.h" />
+    <ClInclude Include="uncipher.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
