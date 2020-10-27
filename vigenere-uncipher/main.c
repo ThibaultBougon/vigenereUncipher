@@ -4,9 +4,6 @@
 #include "frequencyAnalysis.h"
 #include "uncipher.h"
 
-#pragma warning(disable : 4996)
-#pragma warning(disable : 6031)
-
 int main(int argc, char** argv) {
 	FILE* fileIn, * fileOut;
 
